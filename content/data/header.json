@@ -18,7 +18,7 @@
         {
             "label": "Improve English",
             "altText": "Improve English",
-            "url": "/blog",
+            "url": "/ImproveEnglish",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
