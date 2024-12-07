@@ -745,7 +745,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Imankiverma
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    ImproveEnglish is a site where you can find books for your reading practice
+    and improve you English.
   socialImage: /images/WhatsApp Image 2024-03-03 at 14.26.17_c4e98a64.jpg
   type: Seo
 type: PageLayout
