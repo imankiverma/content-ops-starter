@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Imankiverma
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/WhatsApp Image 2024-03-03 at 14.26.17_c4e98a64.jpg
   type: Seo
 type: PageLayout
 ---
