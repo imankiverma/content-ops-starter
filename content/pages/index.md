@@ -1,5 +1,5 @@
 ---
-title: IMankiverma
+title: ImAnkiVerma
 slug: /
 sections:
   - type: GenericSection
