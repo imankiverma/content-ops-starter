@@ -1,5 +1,5 @@
 ---
-title: Home
+title: IMankiverma
 slug: /
 sections:
   - type: GenericSection
